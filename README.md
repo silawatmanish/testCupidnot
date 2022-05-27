@@ -1,8 +1,9 @@
 In this project I have used Laravel 9 and for login and registration I have used laravel/ui package, and for designing I used bootstrap-5 and for social login I have used socialite package.
 In this setup we have only one login form for both types of users (Admin and Frontend user) I manange admin user by middleware. Admin user will only one and his entry is inserted by seeder. 
 Here I provide the admin credentials :
-Email : admin@example.com
-Password : 12345678
+1. Email : admin@example.com
+2. Password : 12345678
+
 Also we have generated 200 dummy users with the help of factory and faker method.
 In this project I have used laravel pagination.
 For range silder I used Jquery-ui/slider.
